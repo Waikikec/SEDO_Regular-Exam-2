@@ -1,5 +1,5 @@
 """
-A simple calculator module with basic arithmetic operations.
+A simple calculator module with basic arithmetic operations for dummies.
 """
 
 def add(x, y):
